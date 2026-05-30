@@ -1,4 +1,4 @@
 {
   "soap_url": "http://186.117.245.15:92",
-  "Namespace": "http://186.117.245.15:92"
+  "Namespace": "https://app.xtremeware.org"
 }
